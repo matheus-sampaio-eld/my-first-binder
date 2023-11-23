@@ -1,4 +1,3 @@
 swig
 xvfb
-python-opengl
 ffmpeg
